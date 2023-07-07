@@ -9,6 +9,8 @@
 
 ## meusite
 Projeto pessoal para desenvolvimento próprio da Linguagem PHP com a ferramenta Laravel e MYSQL. Ainda está incompleto e com diversas funções "improvisadas" que necessitam de refinamento, atualmente a minha prioridade é possuir uma estrutura funcional, atendendo todos os requisitos que um site desta capacidade possui.
+//
+Personal project for self improvement of PHP language with Laravel and MYSQL tool. It's still incomplete, with several "improvised" functions that remained for refinement, currently my priority is to have a functional structure, meeting all the requirements that a site of this capacity holds.
 
 ## About Laravel
 
