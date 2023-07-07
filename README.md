@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## meusite
+Projeto pessoal para desenvolvimento próprio da Linguagem PHP com a ferramenta Laravel e MYSQL. Ainda está incompleto e com diversas funções "improvisadas" que necessitam de refinamento, atualmente a minha prioridade é possuir uma estrutura funcional, atendendo todos os requisitos que um site desta capacidade possui.
+//
+Personal project for self improvement of PHP language with Laravel and MYSQL tool. It's still incomplete, with several "improvised" functions that remained for refinement, currently my priority is to have a functional structure, meeting all the requirements that a site of this capacity holds.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -64,4 +69,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# meusite
+
